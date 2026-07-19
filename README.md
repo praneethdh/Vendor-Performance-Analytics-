@@ -77,6 +77,3 @@ The Power BI dashboard uses `vendor_sales_summary` as its core dataset and prese
 5. Open `EDA.ipynb` and `Vendor Performance Analysis.ipynb` to explore the analysis.
 6. Open the `.pbix` file in Power BI Desktop to view the dashboard.
 
-## License
-
-MIT License
